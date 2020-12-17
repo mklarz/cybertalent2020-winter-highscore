@@ -1,14 +1,26 @@
 [
     {
         "position": 1,
+        "user_id": "fa2cb6638918d926b7e207b0beacc3e1",
+        "name": "SVAK NOOB",
+        "points": 10
+    },
+    {
+        "position": 2,
         "user_id": "dbc3566cf15a4e53ab7b54139fb4ab58",
         "name": "ANBEFALT HACKER",
         "points": 5
     },
     {
-        "position": 2,
+        "position": 3,
         "user_id": "a3b04249a4bd1129e5d429474f5fbd8d",
         "name": "Goldwave",
+        "points": 5
+    },
+    {
+        "position": 4,
+        "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
+        "name": "ARTISTISK SCHNEIER",
         "points": 5
     }
 ]

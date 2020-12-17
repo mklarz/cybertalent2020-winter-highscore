@@ -7,26 +7,26 @@
     },
     {
         "position": 2,
+        "user_id": "2036397034a6b80a32e5181219753df5",
+        "name": "poiko",
+        "points": 46
+    },
+    {
+        "position": 3,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
         "points": 45
     },
     {
-        "position": 3,
+        "position": 4,
         "user_id": "a3b04249a4bd1129e5d429474f5fbd8d",
         "name": "Goldwave",
         "points": 41
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "074767c25656ad47d4c9d6b079a1ff25",
         "name": "SOSIAL KLYSE",
-        "points": 41
-    },
-    {
-        "position": 5,
-        "user_id": "2036397034a6b80a32e5181219753df5",
-        "name": "poiko",
         "points": 41
     },
     {
@@ -187,32 +187,32 @@
     },
     {
         "position": 32,
+        "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
+        "name": "SNOKENDE NERD",
+        "points": 20
+    },
+    {
+        "position": 33,
         "user_id": "0a30fb11f89853af3ef06ac8da695bc3",
         "name": "Alexmackzie",
         "points": 10
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
         "name": "NYSGJERRIG PROGRAMMERER",
         "points": 10
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "c754a3823bc3de73d2a094d8ea7fd438",
         "name": "kgb_agment_1",
         "points": 10
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "0b90b9dc8086ed84df260ba0cc56b51e",
         "name": "happy",
-        "points": 10
-    },
-    {
-        "position": 36,
-        "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
-        "name": "SNOKENDE NERD",
         "points": 10
     },
     {

@@ -1,12 +1,12 @@
 {
-    "position": 2,
+    "position": 1,
     "user_id": "a3b04249a4bd1129e5d429474f5fbd8d",
     "name": "Goldwave",
-    "points": 30,
+    "points": 41,
     "categories": {
-        "1. Grunnleggende": 60,
+        "1. Grunnleggende": 80,
         "2. Oppdrag": 0,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 20,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0

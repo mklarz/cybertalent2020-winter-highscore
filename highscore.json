@@ -55,32 +55,32 @@
     },
     {
         "position": 10,
+        "user_id": "c2bc09158754287af3749627eb586e5e",
+        "name": "bashgobrr",
+        "points": 30
+    },
+    {
+        "position": 11,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 25
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "fa2cb6638918d926b7e207b0beacc3e1",
         "name": "fooop",
         "points": 20
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "f3503a527bc613b8519d655403cc8510",
         "name": "S1LV3R",
         "points": 20
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "c30e25049ad37ab36adaf25c624fe9c7",
         "name": "nynh0x",
-        "points": 20
-    },
-    {
-        "position": 14,
-        "user_id": "c2bc09158754287af3749627eb586e5e",
-        "name": "bashgobrr",
         "points": 20
     },
     {
@@ -189,6 +189,12 @@
         "position": 32,
         "user_id": "0157261d3f32968e1f40a6327e9d4248",
         "name": "inb4HemmeligSameknivFight",
+        "points": 5
+    },
+    {
+        "position": 33,
+        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
+        "name": "INNBITT SLASK",
         "points": 5
     }
 ]

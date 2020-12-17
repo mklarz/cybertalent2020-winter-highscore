@@ -33,7 +33,7 @@
         "position": 6,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
-        "points": 45
+        "points": 46
     },
     {
         "position": 7,
@@ -303,6 +303,12 @@
         "position": 51,
         "user_id": "4dc2f776c4f4ba9cfe1b2f2ab9da296c",
         "name": "SKARP HACKER",
+        "points": 5
+    },
+    {
+        "position": 52,
+        "user_id": "6f013570ed2b8f8ade6b774f30227607",
+        "name": "Isthisanonymous?",
         "points": 5
     }
 ]

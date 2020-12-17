@@ -9,7 +9,7 @@
         "position": 2,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
-        "points": 40
+        "points": 41
     },
     {
         "position": 3,
@@ -121,14 +121,14 @@
     },
     {
         "position": 21,
-        "user_id": "dbc3566cf15a4e53ab7b54139fb4ab58",
-        "name": "ANBEFALT HACKER",
-        "points": 5
+        "user_id": "092be12158f35edc1b13e53cea28a1b2",
+        "name": "KLAM ARTIST",
+        "points": 10
     },
     {
         "position": 22,
-        "user_id": "092be12158f35edc1b13e53cea28a1b2",
-        "name": "KLAM ARTIST",
+        "user_id": "dbc3566cf15a4e53ab7b54139fb4ab58",
+        "name": "ANBEFALT HACKER",
         "points": 5
     },
     {
@@ -141,6 +141,18 @@
         "position": 24,
         "user_id": "25f3c5b65de0a656b48c19e96b9b0891",
         "name": "margz",
+        "points": 5
+    },
+    {
+        "position": 25,
+        "user_id": "f4c83a6c26bf670098d992fdd2e0eedc",
+        "name": "Orca2k",
+        "points": 5
+    },
+    {
+        "position": 26,
+        "user_id": "e141158d64e3cb785e03881fb0be02b5",
+        "name": "Scalpel",
         "points": 5
     }
 ]

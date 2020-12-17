@@ -229,38 +229,38 @@
     },
     {
         "position": 39,
+        "user_id": "b0366152c9c35ff9b9f719614d8228d6",
+        "name": "Salty",
+        "points": 20
+    },
+    {
+        "position": 40,
         "user_id": "0a30fb11f89853af3ef06ac8da695bc3",
         "name": "Alexmackzie",
         "points": 10
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
         "name": "NYSGJERRIG PROGRAMMERER",
         "points": 10
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "c754a3823bc3de73d2a094d8ea7fd438",
         "name": "kgb_agment_1",
         "points": 10
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "eebc84ffd78a6e7105920bdad17ac056",
         "name": "VIMSETE SNOK",
         "points": 10
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "db0284a430924c5308591834d07eddd2",
         "name": "SVETT PERSON",
-        "points": 10
-    },
-    {
-        "position": 44,
-        "user_id": "b0366152c9c35ff9b9f719614d8228d6",
-        "name": "Salty",
         "points": 10
     },
     {

@@ -7,50 +7,50 @@
     },
     {
         "position": 2,
+        "user_id": "4c544c6687204a7b274c29b8aba63240",
+        "name": "ciphr",
+        "points": 50
+    },
+    {
+        "position": 3,
         "user_id": "2036397034a6b80a32e5181219753df5",
         "name": "poiko",
         "points": 46
     },
     {
-        "position": 3,
+        "position": 4,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
         "points": 45
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "a3b04249a4bd1129e5d429474f5fbd8d",
         "name": "Goldwave",
         "points": 41
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "074767c25656ad47d4c9d6b079a1ff25",
         "name": "SOSIAL KLYSE",
         "points": 41
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "092be12158f35edc1b13e53cea28a1b2",
         "name": "KLAM ARTIST",
         "points": 40
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "83372ecdf9d3692488d1febd73e3c245",
         "name": "Jul",
         "points": 40
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "0157261d3f32968e1f40a6327e9d4248",
         "name": "inb4HemmeligSameknivFight",
-        "points": 40
-    },
-    {
-        "position": 9,
-        "user_id": "4c544c6687204a7b274c29b8aba63240",
-        "name": "ciphr",
         "points": 40
     },
     {
@@ -61,26 +61,26 @@
     },
     {
         "position": 11,
+        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
+        "name": "bummie",
+        "points": 40
+    },
+    {
+        "position": 12,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 30
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "83838f317fb52b3ce60d9cb3f9854660",
         "name": "z3r0c001",
         "points": 30
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "c2bc09158754287af3749627eb586e5e",
         "name": "bashgobrr",
-        "points": 30
-    },
-    {
-        "position": 14,
-        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
-        "name": "bummie",
         "points": 30
     },
     {
@@ -121,32 +121,32 @@
     },
     {
         "position": 21,
+        "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
+        "name": "jole",
+        "points": 30
+    },
+    {
+        "position": 22,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 25
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "fa2cb6638918d926b7e207b0beacc3e1",
         "name": "fooop",
         "points": 20
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "f3503a527bc613b8519d655403cc8510",
         "name": "S1LV3R",
         "points": 20
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "c30e25049ad37ab36adaf25c624fe9c7",
         "name": "nynh0x",
-        "points": 20
-    },
-    {
-        "position": 25,
-        "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
-        "name": "jole",
         "points": 20
     },
     {
@@ -255,6 +255,24 @@
         "position": 43,
         "user_id": "a8bfad96b03d6b5cb1c08794e193d152",
         "name": "KingJulien",
+        "points": 5
+    },
+    {
+        "position": 44,
+        "user_id": "9729019c154c2bbb29f89a0f4a27b253",
+        "name": "Freeztyle25",
+        "points": 5
+    },
+    {
+        "position": 45,
+        "user_id": "4dc2f776c4f4ba9cfe1b2f2ab9da296c",
+        "name": "SKARP HACKER",
+        "points": 5
+    },
+    {
+        "position": 46,
+        "user_id": "eebc84ffd78a6e7105920bdad17ac056",
+        "name": "VIMSETE SNOK",
         "points": 5
     }
 ]

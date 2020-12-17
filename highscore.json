@@ -109,20 +109,20 @@
     },
     {
         "position": 19,
+        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
+        "name": "bummie",
+        "points": 41
+    },
+    {
+        "position": 20,
         "user_id": "092be12158f35edc1b13e53cea28a1b2",
         "name": "KLAM ARTIST",
         "points": 40
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "0157261d3f32968e1f40a6327e9d4248",
         "name": "inb4HemmeligSameknivFight",
-        "points": 40
-    },
-    {
-        "position": 21,
-        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
-        "name": "bummie",
         "points": 40
     },
     {
@@ -507,6 +507,12 @@
         "position": 85,
         "user_id": "b8b234092027afed79af693fe67f573f",
         "name": "VIMSETE ARTIST",
+        "points": 5
+    },
+    {
+        "position": 86,
+        "user_id": "f7f5bf6dccac0022e77b096b1b5636c9",
+        "name": "TESTER_I_PROD",
         "points": 5
     }
 ]

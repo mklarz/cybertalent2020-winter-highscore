@@ -55,20 +55,20 @@
     },
     {
         "position": 10,
+        "user_id": "df586e164514b364a3b4a1b9b8a8fa39",
+        "name": "clorin",
+        "points": 40
+    },
+    {
+        "position": 11,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 30
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "83838f317fb52b3ce60d9cb3f9854660",
         "name": "z3r0c001",
-        "points": 30
-    },
-    {
-        "position": 12,
-        "user_id": "df586e164514b364a3b4a1b9b8a8fa39",
-        "name": "clorin",
         "points": 30
     },
     {

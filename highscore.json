@@ -127,74 +127,86 @@
     },
     {
         "position": 22,
+        "user_id": "9cab7449a76378282f248fa0f8db12b0",
+        "name": "slaps",
+        "points": 20
+    },
+    {
+        "position": 23,
+        "user_id": "0157261d3f32968e1f40a6327e9d4248",
+        "name": "inb4HemmeligSameknivFight",
+        "points": 15
+    },
+    {
+        "position": 24,
         "user_id": "0a30fb11f89853af3ef06ac8da695bc3",
         "name": "Alexmackzie",
         "points": 10
     },
     {
-        "position": 23,
+        "position": 25,
         "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
         "name": "NYSGJERRIG PROGRAMMERER",
         "points": 10
     },
     {
-        "position": 24,
-        "user_id": "9cab7449a76378282f248fa0f8db12b0",
-        "name": "slaps",
-        "points": 10
-    },
-    {
-        "position": 25,
+        "position": 26,
         "user_id": "304f0ba5fd625cfb901444587abbfb78",
         "name": "RUTETE DRAPER",
         "points": 10
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "9a15c278b8651531dd9a31c2420480ae",
         "name": "VIMSETE NERD",
         "points": 10
     },
     {
-        "position": 27,
+        "position": 28,
+        "user_id": "e70dad5cc7608a406bae5001e1c026d5",
+        "name": "lw",
+        "points": 10
+    },
+    {
+        "position": 29,
         "user_id": "dbc3566cf15a4e53ab7b54139fb4ab58",
         "name": "ANBEFALT HACKER",
         "points": 5
     },
     {
-        "position": 28,
+        "position": 30,
         "user_id": "25f3c5b65de0a656b48c19e96b9b0891",
         "name": "margz",
         "points": 5
     },
     {
-        "position": 29,
+        "position": 31,
         "user_id": "f4c83a6c26bf670098d992fdd2e0eedc",
         "name": "Orca2k",
         "points": 5
     },
     {
-        "position": 30,
+        "position": 32,
         "user_id": "e141158d64e3cb785e03881fb0be02b5",
         "name": "Scalpel",
         "points": 5
     },
     {
-        "position": 31,
+        "position": 33,
         "user_id": "98f927c8f04d7f120373623b289c30ef",
         "name": "RYDDIG ARTIST",
         "points": 5
     },
     {
-        "position": 32,
-        "user_id": "0157261d3f32968e1f40a6327e9d4248",
-        "name": "inb4HemmeligSameknivFight",
+        "position": 34,
+        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
+        "name": "INNBITT SLASK",
         "points": 5
     },
     {
-        "position": 33,
-        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
-        "name": "INNBITT SLASK",
+        "position": 35,
+        "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
+        "name": "SVR_agentx",
         "points": 5
     }
 ]

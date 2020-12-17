@@ -1,33 +1,33 @@
 [
     {
         "position": 1,
+        "user_id": "2036397034a6b80a32e5181219753df5",
+        "name": "poiko",
+        "points": 56
+    },
+    {
+        "position": 2,
         "user_id": "83372ecdf9d3692488d1febd73e3c245",
         "name": "Jul",
         "points": 51
     },
     {
-        "position": 2,
+        "position": 3,
         "user_id": "7ff204a85338004fdc1e327febcaaa31",
         "name": "LadySilverberg",
         "points": 50
     },
     {
-        "position": 3,
+        "position": 4,
         "user_id": "4c544c6687204a7b274c29b8aba63240",
         "name": "ciphr",
         "points": 50
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "df586e164514b364a3b4a1b9b8a8fa39",
         "name": "clorin",
         "points": 50
-    },
-    {
-        "position": 5,
-        "user_id": "2036397034a6b80a32e5181219753df5",
-        "name": "poiko",
-        "points": 46
     },
     {
         "position": 6,
@@ -217,38 +217,38 @@
     },
     {
         "position": 37,
+        "user_id": "d05002743e02f581569d1fce9246a4eb",
+        "name": "roys",
+        "points": 20
+    },
+    {
+        "position": 38,
         "user_id": "0a30fb11f89853af3ef06ac8da695bc3",
         "name": "Alexmackzie",
         "points": 10
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
         "name": "NYSGJERRIG PROGRAMMERER",
         "points": 10
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "c754a3823bc3de73d2a094d8ea7fd438",
         "name": "kgb_agment_1",
         "points": 10
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "eebc84ffd78a6e7105920bdad17ac056",
         "name": "VIMSETE SNOK",
         "points": 10
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "a8bfad96b03d6b5cb1c08794e193d152",
         "name": "KingJulien",
-        "points": 10
-    },
-    {
-        "position": 42,
-        "user_id": "d05002743e02f581569d1fce9246a4eb",
-        "name": "roys",
         "points": 10
     },
     {

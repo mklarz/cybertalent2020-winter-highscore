@@ -37,20 +37,20 @@
     },
     {
         "position": 7,
+        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
+        "name": "NYSGJERRIG HACKTIVIST",
+        "points": 55
+    },
+    {
+        "position": 8,
         "user_id": "4c544c6687204a7b274c29b8aba63240",
         "name": "ciphr",
         "points": 54
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
         "name": "fjellape",
-        "points": 54
-    },
-    {
-        "position": 9,
-        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
-        "name": "NYSGJERRIG HACKTIVIST",
         "points": 54
     },
     {

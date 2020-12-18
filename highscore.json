@@ -73,44 +73,44 @@
     },
     {
         "position": 13,
+        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
+        "name": "INNBITT SLASK",
+        "points": 53
+    },
+    {
+        "position": 14,
+        "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
+        "name": "SVR_agentx",
+        "points": 53
+    },
+    {
+        "position": 15,
         "user_id": "3bea54380e0ff801b02bd822b277892c",
         "name": "ARBEIDSLEDIG PERSON",
         "points": 52
     },
     {
-        "position": 14,
+        "position": 16,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
         "points": 52
     },
     {
-        "position": 15,
-        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
-        "name": "INNBITT SLASK",
-        "points": 52
-    },
-    {
-        "position": 16,
+        "position": 17,
         "user_id": "83372ecdf9d3692488d1febd73e3c245",
         "name": "Jul",
         "points": 51
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "71c3cbd9034cecba016dad064503cd9e",
         "name": "snabel_b",
         "points": 51
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "332a67e00352c4b5a185da60c8e3a545",
         "name": "KOKETT HACKTIVIST",
-        "points": 51
-    },
-    {
-        "position": 19,
-        "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
-        "name": "SVR_agentx",
         "points": 51
     },
     {

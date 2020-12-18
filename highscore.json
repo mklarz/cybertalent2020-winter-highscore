@@ -9,7 +9,7 @@
         "position": 2,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
-        "points": 102
+        "points": 107
     },
     {
         "position": 3,
@@ -19,33 +19,33 @@
     },
     {
         "position": 4,
+        "user_id": "8ca63e8ab9025169631a518b38a541d5",
+        "name": "KRAMPEAKTIG HACKER",
+        "points": 62
+    },
+    {
+        "position": 5,
+        "user_id": "04afab4ae4d1bd5fea8d1a6cc71f6259",
+        "name": "frisk",
+        "points": 62
+    },
+    {
+        "position": 6,
         "user_id": "074767c25656ad47d4c9d6b079a1ff25",
         "name": "klarz",
         "points": 60
     },
     {
-        "position": 5,
+        "position": 7,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 59
     },
     {
-        "position": 6,
+        "position": 8,
         "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
         "name": "bummie",
         "points": 58
-    },
-    {
-        "position": 7,
-        "user_id": "8ca63e8ab9025169631a518b38a541d5",
-        "name": "KRAMPEAKTIG HACKER",
-        "points": 57
-    },
-    {
-        "position": 8,
-        "user_id": "04afab4ae4d1bd5fea8d1a6cc71f6259",
-        "name": "frisk",
-        "points": 57
     },
     {
         "position": 9,
@@ -127,20 +127,20 @@
     },
     {
         "position": 22,
+        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
+        "name": "SjefsNissen",
+        "points": 53
+    },
+    {
+        "position": 23,
         "user_id": "3bea54380e0ff801b02bd822b277892c",
         "name": "ARBEIDSLEDIG PERSON",
         "points": 52
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
-        "points": 52
-    },
-    {
-        "position": 24,
-        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
-        "name": "SjefsNissen",
         "points": 52
     },
     {

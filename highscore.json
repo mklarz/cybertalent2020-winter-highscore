@@ -15,7 +15,7 @@
         "position": 3,
         "user_id": "aeeeff26cfcf955659663cd33df8c950",
         "name": "STERK SNOK",
-        "points": 89
+        "points": 90
     },
     {
         "position": 4,
@@ -79,26 +79,26 @@
     },
     {
         "position": 14,
+        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
+        "name": "INNBITT SLASK",
+        "points": 54
+    },
+    {
+        "position": 15,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 53
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
         "name": "KORT PROSESS",
         "points": 53
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "603735f0a760dda9fc966504b6e8cd7c",
         "name": "SVAK SNOK",
-        "points": 53
-    },
-    {
-        "position": 17,
-        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
-        "name": "INNBITT SLASK",
         "points": 53
     },
     {

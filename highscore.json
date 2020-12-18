@@ -31,20 +31,20 @@
     },
     {
         "position": 6,
+        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
+        "name": "bummie",
+        "points": 58
+    },
+    {
+        "position": 7,
         "user_id": "8ca63e8ab9025169631a518b38a541d5",
         "name": "KRAMPEAKTIG HACKER",
         "points": 57
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "04afab4ae4d1bd5fea8d1a6cc71f6259",
         "name": "frisk",
-        "points": 57
-    },
-    {
-        "position": 8,
-        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
-        "name": "bummie",
         "points": 57
     },
     {
@@ -529,14 +529,14 @@
     },
     {
         "position": 89,
-        "user_id": "345564609bbda8f865273c1749d47e43",
-        "name": "vaff",
-        "points": 22
+        "user_id": "2bebfcb080565d0b404e5c0edf69f084",
+        "name": "test",
+        "points": 23
     },
     {
         "position": 90,
-        "user_id": "2bebfcb080565d0b404e5c0edf69f084",
-        "name": "test",
+        "user_id": "345564609bbda8f865273c1749d47e43",
+        "name": "vaff",
         "points": 22
     },
     {

@@ -109,26 +109,26 @@
     },
     {
         "position": 19,
+        "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
+        "name": "SVR_agentx",
+        "points": 51
+    },
+    {
+        "position": 20,
         "user_id": "7ff204a85338004fdc1e327febcaaa31",
         "name": "LadySilverberg",
         "points": 50
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "df586e164514b364a3b4a1b9b8a8fa39",
         "name": "clorin",
         "points": 50
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "1fa9750cedefe96e0d7aaf082a90f67c",
         "name": "KRAMPEAKTIG MITNICK",
-        "points": 50
-    },
-    {
-        "position": 22,
-        "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
-        "name": "SVR_agentx",
         "points": 50
     },
     {

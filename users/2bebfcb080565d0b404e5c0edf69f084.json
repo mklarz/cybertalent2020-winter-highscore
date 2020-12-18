@@ -1,12 +1,12 @@
 {
-    "position": 92,
+    "position": 90,
     "user_id": "2bebfcb080565d0b404e5c0edf69f084",
     "name": "test",
-    "points": 21,
+    "points": 22,
     "categories": {
         "1. Grunnleggende": 40,
         "2. Oppdrag": 0,
-        "3.1. Utfordringer lett": 20,
+        "3.1. Utfordringer lett": 40,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0

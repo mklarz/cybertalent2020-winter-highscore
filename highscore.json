@@ -3,7 +3,7 @@
         "position": 1,
         "user_id": "1713b7d44387b31455074da2489f3f81",
         "name": "unblvr",
-        "points": 123
+        "points": 125
     },
     {
         "position": 2,
@@ -97,32 +97,32 @@
     },
     {
         "position": 17,
+        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
+        "name": "SjefsNissen",
+        "points": 55
+    },
+    {
+        "position": 18,
         "user_id": "4c544c6687204a7b274c29b8aba63240",
         "name": "ciphr",
         "points": 54
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
         "name": "fjellape",
         "points": 54
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
         "name": "SVR_agentx",
         "points": 54
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "dbc3566cf15a4e53ab7b54139fb4ab58",
         "name": "ANBEFALT HACKER",
-        "points": 54
-    },
-    {
-        "position": 21,
-        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
-        "name": "SjefsNissen",
         "points": 54
     },
     {
@@ -571,32 +571,32 @@
     },
     {
         "position": 96,
+        "user_id": "5859f335a15153e72a8d772b00b25946",
+        "name": "GoGoLasagna",
+        "points": 30
+    },
+    {
+        "position": 97,
         "user_id": "345564609bbda8f865273c1749d47e43",
         "name": "vaff",
         "points": 22
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "e141158d64e3cb785e03881fb0be02b5",
         "name": "Scalpel",
         "points": 21
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "1ee7fe086763c33e1bd11ff9b840033e",
         "name": "ARBEIDSLEDIG AGENT",
         "points": 21
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "f3503a527bc613b8519d655403cc8510",
         "name": "S1LV3R",
-        "points": 20
-    },
-    {
-        "position": 100,
-        "user_id": "9cab7449a76378282f248fa0f8db12b0",
-        "name": "slaps",
         "points": 20
     }
 ]

@@ -355,80 +355,80 @@
     },
     {
         "position": 60,
+        "user_id": "87a8e7925c4fc7e18f26130f8b22a30f",
+        "name": "skuggen",
+        "points": 40
+    },
+    {
+        "position": 61,
         "user_id": "2bebfcb080565d0b404e5c0edf69f084",
         "name": "test",
         "points": 35
     },
     {
-        "position": 61,
+        "position": 62,
         "user_id": "9a15c278b8651531dd9a31c2420480ae",
         "name": "VIMSETE NERD",
         "points": 31
     },
     {
-        "position": 62,
+        "position": 63,
         "user_id": "41f9bba70284ba9d7358cae284c150ee",
         "name": "ChestyRiggs",
         "points": 31
     },
     {
-        "position": 63,
+        "position": 64,
         "user_id": "1fd05595cb1d273d177b162bf45b169e",
         "name": "SgtSIGSEGV",
         "points": 31
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "83838f317fb52b3ce60d9cb3f9854660",
         "name": "z3r0c001",
         "points": 30
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "0b90b9dc8086ed84df260ba0cc56b51e",
         "name": "happy",
         "points": 30
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "e70dad5cc7608a406bae5001e1c026d5",
         "name": "lw",
         "points": 30
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "298d200a622d705e6b268c0ea2d63634",
         "name": "Natu",
         "points": 30
     },
     {
-        "position": 68,
+        "position": 69,
         "user_id": "fa0ded01c32edc59a8c10e4f872ea226",
         "name": "KUL CYBERHELT",
         "points": 30
     },
     {
-        "position": 69,
+        "position": 70,
         "user_id": "0fc2c0bea469bb49f9d26ab9ea281b22",
         "name": "DEDIKERT SPION",
         "points": 30
     },
     {
-        "position": 70,
+        "position": 71,
         "user_id": "d85d8ebe7de4e4e3227e69d2ddc9b69a",
         "name": "GRINETE KODER",
         "points": 30
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "f7f5bf6dccac0022e77b096b1b5636c9",
         "name": "TESTER_I_PROD",
-        "points": 30
-    },
-    {
-        "position": 72,
-        "user_id": "87a8e7925c4fc7e18f26130f8b22a30f",
-        "name": "skuggen",
         "points": 30
     },
     {

@@ -21,7 +21,7 @@
         "position": 4,
         "user_id": "251553f87b230cc72d1da9064dc356ce",
         "name": "VIMSETE NOOB",
-        "points": 67
+        "points": 72
     },
     {
         "position": 5,
@@ -559,44 +559,44 @@
     },
     {
         "position": 94,
+        "user_id": "d2b50961a652141d71099c0a134c6a93",
+        "name": "PLAGSOM SCHNEIER",
+        "points": 30
+    },
+    {
+        "position": 95,
         "user_id": "345564609bbda8f865273c1749d47e43",
         "name": "vaff",
         "points": 22
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "e141158d64e3cb785e03881fb0be02b5",
         "name": "Scalpel",
         "points": 21
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "1ee7fe086763c33e1bd11ff9b840033e",
         "name": "ARBEIDSLEDIG AGENT",
         "points": 21
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "f3503a527bc613b8519d655403cc8510",
         "name": "S1LV3R",
         "points": 20
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "9cab7449a76378282f248fa0f8db12b0",
         "name": "slaps",
         "points": 20
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "d05002743e02f581569d1fce9246a4eb",
         "name": "roys",
-        "points": 20
-    },
-    {
-        "position": 100,
-        "user_id": "a8bfad96b03d6b5cb1c08794e193d152",
-        "name": "KingJulien",
         "points": 20
     }
 ]

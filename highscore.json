@@ -25,15 +25,15 @@
     },
     {
         "position": 5,
-        "user_id": "074767c25656ad47d4c9d6b079a1ff25",
-        "name": "klarz",
-        "points": 67
+        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
+        "name": "Waldorf",
+        "points": 69
     },
     {
         "position": 6,
-        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
-        "name": "Waldorf",
-        "points": 64
+        "user_id": "074767c25656ad47d4c9d6b079a1ff25",
+        "name": "klarz",
+        "points": 67
     },
     {
         "position": 7,
@@ -199,44 +199,44 @@
     },
     {
         "position": 34,
+        "user_id": "27c84162340162b81fa8d3c3bee1ee06",
+        "name": "UNG SPILLER",
+        "points": 51
+    },
+    {
+        "position": 35,
         "user_id": "7ff204a85338004fdc1e327febcaaa31",
         "name": "LadySilverberg",
         "points": 50
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "df586e164514b364a3b4a1b9b8a8fa39",
         "name": "clorin",
         "points": 50
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "1fa9750cedefe96e0d7aaf082a90f67c",
         "name": "KRAMPEAKTIG MITNICK",
         "points": 50
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "6f013570ed2b8f8ade6b774f30227607",
         "name": "Isthisanonymous?",
         "points": 50
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "2f2e4c977f3f294197581fe67a57bfc6",
         "name": "sikker_stasjon",
         "points": 50
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
         "name": "mutex",
-        "points": 50
-    },
-    {
-        "position": 40,
-        "user_id": "27c84162340162b81fa8d3c3bee1ee06",
-        "name": "UNG SPILLER",
         "points": 50
     },
     {
@@ -374,7 +374,7 @@
     {
         "position": 63,
         "user_id": "5859f335a15153e72a8d772b00b25946",
-        "name": "GoGoLasagna",
+        "name": "krise_i_vind",
         "points": 40
     },
     {

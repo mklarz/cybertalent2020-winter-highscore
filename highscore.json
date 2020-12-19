@@ -67,15 +67,15 @@
     },
     {
         "position": 12,
-        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
-        "name": "SjefsNissen",
-        "points": 57
+        "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
+        "name": "KORT PROSESS",
+        "points": 58
     },
     {
         "position": 13,
-        "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
-        "name": "KORT PROSESS",
-        "points": 57
+        "user_id": "72900d43af5a7428eec277d1ce8f87e4",
+        "name": "SjefsNissen",
+        "points": 58
     },
     {
         "position": 14,
@@ -151,20 +151,20 @@
     },
     {
         "position": 26,
+        "user_id": "10049773d96482ee328823f8a13431eb",
+        "name": "Zarux",
+        "points": 53
+    },
+    {
+        "position": 27,
         "user_id": "3bea54380e0ff801b02bd822b277892c",
         "name": "ARBEIDSLEDIG PERSON",
         "points": 52
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
-        "points": 52
-    },
-    {
-        "position": 28,
-        "user_id": "10049773d96482ee328823f8a13431eb",
-        "name": "Zarux",
         "points": 52
     },
     {

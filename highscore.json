@@ -97,32 +97,32 @@
     },
     {
         "position": 17,
+        "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
+        "name": "SNOKENDE NERD",
+        "points": 54
+    },
+    {
+        "position": 18,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 53
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
         "name": "KORT PROSESS",
         "points": 53
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "603735f0a760dda9fc966504b6e8cd7c",
         "name": "SVAK SNOK",
         "points": 53
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "db8d08e26fc7a110751127e75179d367",
         "name": "Turboslask",
-        "points": 53
-    },
-    {
-        "position": 21,
-        "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
-        "name": "SNOKENDE NERD",
         "points": 53
     },
     {

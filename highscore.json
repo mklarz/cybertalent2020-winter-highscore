@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "a8503a2a9b5709999bfdfc8ce337bbeb",
+        "name": "SOSIAL REVERSER",
+        "points": 30
+    },
+    {
+        "position": 98,
         "user_id": "345564609bbda8f865273c1749d47e43",
         "name": "vaff",
         "points": 22
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "e141158d64e3cb785e03881fb0be02b5",
         "name": "Scalpel",
         "points": 21
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "1ee7fe086763c33e1bd11ff9b840033e",
         "name": "ARBEIDSLEDIG AGENT",
         "points": 21
-    },
-    {
-        "position": 100,
-        "user_id": "f3503a527bc613b8519d655403cc8510",
-        "name": "S1LV3R",
-        "points": 20
     }
 ]

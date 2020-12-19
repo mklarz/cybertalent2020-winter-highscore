@@ -199,14 +199,14 @@
     },
     {
         "position": 34,
-        "user_id": "332a67e00352c4b5a185da60c8e3a545",
-        "name": "KOKETT HACKTIVIST",
-        "points": 51
+        "user_id": "27c84162340162b81fa8d3c3bee1ee06",
+        "name": "UNG SPILLER",
+        "points": 52
     },
     {
         "position": 35,
-        "user_id": "27c84162340162b81fa8d3c3bee1ee06",
-        "name": "UNG SPILLER",
+        "user_id": "332a67e00352c4b5a185da60c8e3a545",
+        "name": "KOKETT HACKTIVIST",
         "points": 51
     },
     {
@@ -379,32 +379,32 @@
     },
     {
         "position": 64,
+        "user_id": "643ded5991a961b95381bcc219290551",
+        "name": "The_man_in_the_midle",
+        "points": 32
+    },
+    {
+        "position": 65,
         "user_id": "9a15c278b8651531dd9a31c2420480ae",
         "name": "VIMSETE NERD",
         "points": 31
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "41f9bba70284ba9d7358cae284c150ee",
         "name": "ChestyRiggs",
         "points": 31
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "1fd05595cb1d273d177b162bf45b169e",
         "name": "SgtSIGSEGV",
         "points": 31
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "d2b50961a652141d71099c0a134c6a93",
         "name": "PLAGSOM SCHNEIER",
-        "points": 31
-    },
-    {
-        "position": 68,
-        "user_id": "643ded5991a961b95381bcc219290551",
-        "name": "The_man_in_the_midle",
         "points": 31
     },
     {

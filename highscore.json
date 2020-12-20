@@ -31,15 +31,15 @@
     },
     {
         "position": 6,
-        "user_id": "074767c25656ad47d4c9d6b079a1ff25",
-        "name": "klarz",
-        "points": 67
+        "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
+        "name": "fjellape",
+        "points": 69
     },
     {
         "position": 7,
-        "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
-        "name": "fjellape",
-        "points": 64
+        "user_id": "074767c25656ad47d4c9d6b079a1ff25",
+        "name": "klarz",
+        "points": 67
     },
     {
         "position": 8,
@@ -115,26 +115,26 @@
     },
     {
         "position": 20,
+        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
+        "name": "INNBITT SLASK",
+        "points": 56
+    },
+    {
+        "position": 21,
         "user_id": "c2bc09158754287af3749627eb586e5e",
         "name": "bashgobrr",
         "points": 55
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 55
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
         "name": "SNOKENDE NERD",
-        "points": 55
-    },
-    {
-        "position": 23,
-        "user_id": "365cdf77e28f237f0031f0d40ad712e4",
-        "name": "INNBITT SLASK",
         "points": 55
     },
     {

@@ -199,20 +199,20 @@
     },
     {
         "position": 34,
+        "user_id": "83372ecdf9d3692488d1febd73e3c245",
+        "name": "Jul",
+        "points": 53
+    },
+    {
+        "position": 35,
         "user_id": "3bea54380e0ff801b02bd822b277892c",
         "name": "ARBEIDSLEDIG PERSON",
         "points": 52
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "fa2cb6638918d926b7e207b0beacc3e1",
         "name": "fooop",
-        "points": 52
-    },
-    {
-        "position": 36,
-        "user_id": "83372ecdf9d3692488d1febd73e3c245",
-        "name": "Jul",
         "points": 52
     },
     {

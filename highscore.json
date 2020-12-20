@@ -31,27 +31,27 @@
     },
     {
         "position": 6,
+        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
+        "name": "bummie",
+        "points": 73
+    },
+    {
+        "position": 7,
         "user_id": "4a56331bb4818285192c0e5c4ed9148f",
         "name": "Waldorf",
         "points": 71
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "a3628807a3358796b4d508a998340832",
         "name": "sebbert",
         "points": 70
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
         "name": "fjellape",
         "points": 69
-    },
-    {
-        "position": 9,
-        "user_id": "6a589a1c7bac12cb033b7a1cb3503910",
-        "name": "bummie",
-        "points": 68
     },
     {
         "position": 10,

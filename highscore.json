@@ -73,26 +73,26 @@
     },
     {
         "position": 13,
+        "user_id": "7ff204a85338004fdc1e327febcaaa31",
+        "name": "LadySilverberg",
+        "points": 61
+    },
+    {
+        "position": 14,
         "user_id": "bf75e86c2a941a084a6ad0adb05d0d86",
         "name": "wuurrd",
         "points": 60
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "2f2e4c977f3f294197581fe67a57bfc6",
         "name": "sikker_stasjon",
         "points": 60
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
-        "points": 60
-    },
-    {
-        "position": 16,
-        "user_id": "7ff204a85338004fdc1e327febcaaa31",
-        "name": "LadySilverberg",
         "points": 60
     },
     {

@@ -9,7 +9,7 @@
         "position": 2,
         "user_id": "2036397034a6b80a32e5181219753df5",
         "name": "poiko",
-        "points": 129
+        "points": 130
     },
     {
         "position": 3,
@@ -67,20 +67,20 @@
     },
     {
         "position": 12,
+        "user_id": "bf75e86c2a941a084a6ad0adb05d0d86",
+        "name": "wuurrd",
+        "points": 68
+    },
+    {
+        "position": 13,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 67
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "2f2e4c977f3f294197581fe67a57bfc6",
         "name": "sikker_stasjon",
-        "points": 67
-    },
-    {
-        "position": 14,
-        "user_id": "bf75e86c2a941a084a6ad0adb05d0d86",
-        "name": "wuurrd",
         "points": 67
     },
     {

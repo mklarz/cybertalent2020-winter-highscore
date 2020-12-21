@@ -1,13 +1,13 @@
 {
-    "position": 76,
+    "position": 64,
     "user_id": "2de0ac53e80d64926573201a4f252da0",
     "name": "GRILLET STALLMAN",
-    "points": 40,
+    "points": 41,
     "categories": {
         "1. Grunnleggende": 80,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 0,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 8,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0
     }

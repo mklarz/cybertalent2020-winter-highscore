@@ -175,26 +175,26 @@
     },
     {
         "position": 30,
+        "user_id": "83372ecdf9d3692488d1febd73e3c245",
+        "name": "Jul",
+        "points": 56
+    },
+    {
+        "position": 31,
         "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
         "name": "SNOKENDE NERD",
         "points": 55
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "2bebfcb080565d0b404e5c0edf69f084",
         "name": "wastefulnick",
         "points": 55
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
         "name": "SVR_agentx",
-        "points": 54
-    },
-    {
-        "position": 33,
-        "user_id": "83372ecdf9d3692488d1febd73e3c245",
-        "name": "Jul",
         "points": 54
     },
     {

@@ -1,14 +1,14 @@
 {
-    "position": 33,
+    "position": 31,
     "user_id": "27c84162340162b81fa8d3c3bee1ee06",
     "name": "UNG SPILLER",
-    "points": 55,
+    "points": 56,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 60,
         "3.2. Utfordringer middels": 15,
-        "3.3. Utfordringer vanskelig": 0,
+        "3.3. Utfordringer vanskelig": 10,
         "9. Gammelt": 0
     }
 }

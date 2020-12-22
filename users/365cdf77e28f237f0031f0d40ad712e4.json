@@ -1,11 +1,11 @@
 {
-    "position": 30,
+    "position": 25,
     "user_id": "365cdf77e28f237f0031f0d40ad712e4",
     "name": "INNBITT SLASK",
-    "points": 56,
+    "points": 61,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Oppdrag": 0,
+        "2. Oppdrag": 10,
         "3.1. Utfordringer lett": 60,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 20,

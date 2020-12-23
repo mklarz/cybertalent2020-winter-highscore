@@ -541,62 +541,62 @@
     },
     {
         "position": 91,
+        "user_id": "e5124a8fbdc2debc79141e71a9b3c1d7",
+        "name": "sta",
+        "points": 31
+    },
+    {
+        "position": 92,
         "user_id": "83838f317fb52b3ce60d9cb3f9854660",
         "name": "z3r0c001",
         "points": 30
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "0b90b9dc8086ed84df260ba0cc56b51e",
         "name": "happy",
         "points": 30
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "298d200a622d705e6b268c0ea2d63634",
         "name": "Natu",
         "points": 30
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "fa0ded01c32edc59a8c10e4f872ea226",
         "name": "KUL CYBERHELT",
         "points": 30
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "0fc2c0bea469bb49f9d26ab9ea281b22",
         "name": "DEDIKERT SPION",
         "points": 30
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "d85d8ebe7de4e4e3227e69d2ddc9b69a",
         "name": "GRINETE KODER",
         "points": 30
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "f7f5bf6dccac0022e77b096b1b5636c9",
         "name": "TESTER_I_PROD",
         "points": 30
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "389a6566c1c1a5774e5a821b6c1222fc",
         "name": "Expose",
         "points": 30
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "9100aee2e3d0f577361ea039fb7f8a65",
         "name": "mikko80",
-        "points": 30
-    },
-    {
-        "position": 100,
-        "user_id": "5b4cc342d4e0872b4eebac9b2924d2db",
-        "name": "GRILLET SCHNEIER",
         "points": 30
     }
 ]

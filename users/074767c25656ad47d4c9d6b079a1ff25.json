@@ -1,14 +1,14 @@
 {
-    "position": 4,
+    "position": 3,
     "user_id": "074767c25656ad47d4c9d6b079a1ff25",
     "name": "klarz",
-    "points": 118,
+    "points": 124,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 100,
         "3.1. Utfordringer lett": 100,
-        "3.2. Utfordringer middels": 62,
-        "3.3. Utfordringer vanskelig": 30,
+        "3.2. Utfordringer middels": 77,
+        "3.3. Utfordringer vanskelig": 70,
         "9. Gammelt": 100
     }
 }

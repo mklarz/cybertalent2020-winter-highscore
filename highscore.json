@@ -25,27 +25,27 @@
     },
     {
         "position": 5,
+        "user_id": "a3628807a3358796b4d508a998340832",
+        "name": "sebbert",
+        "points": 103
+    },
+    {
+        "position": 6,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 101
     },
     {
-        "position": 6,
-        "user_id": "a3628807a3358796b4d508a998340832",
-        "name": "sebbert",
-        "points": 99
-    },
-    {
         "position": 7,
-        "user_id": "ae4c0217c2c45368da7c780ea816c531",
-        "name": "tapped",
-        "points": 98
+        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
+        "name": "Waldorf",
+        "points": 101
     },
     {
         "position": 8,
-        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
-        "name": "Waldorf",
-        "points": 96
+        "user_id": "ae4c0217c2c45368da7c780ea816c531",
+        "name": "tapped",
+        "points": 98
     },
     {
         "position": 9,

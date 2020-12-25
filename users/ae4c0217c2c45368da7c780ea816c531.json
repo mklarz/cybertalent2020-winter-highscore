@@ -2,13 +2,13 @@
     "position": 8,
     "user_id": "ae4c0217c2c45368da7c780ea816c531",
     "name": "tapped",
-    "points": 100,
+    "points": 101,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 80,
         "3.1. Utfordringer lett": 80,
         "3.2. Utfordringer middels": 15,
-        "3.3. Utfordringer vanskelig": 40,
+        "3.3. Utfordringer vanskelig": 50,
         "9. Gammelt": 0
     }
 }

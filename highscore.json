@@ -117,7 +117,7 @@
         "position": 20,
         "user_id": "365cdf77e28f237f0031f0d40ad712e4",
         "name": "INNBITT SLASK",
-        "points": 66
+        "points": 67
     },
     {
         "position": 21,
@@ -205,20 +205,20 @@
     },
     {
         "position": 35,
+        "user_id": "5859f335a15153e72a8d772b00b25946",
+        "name": "krise_i_vind",
+        "points": 56
+    },
+    {
+        "position": 36,
         "user_id": "d5bf208c0cb7d016457d324db2bcefe7",
         "name": "SNOKENDE NERD",
         "points": 55
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "2bebfcb080565d0b404e5c0edf69f084",
         "name": "wastefulnick",
-        "points": 55
-    },
-    {
-        "position": 37,
-        "user_id": "5859f335a15153e72a8d772b00b25946",
-        "name": "krise_i_vind",
         "points": 55
     },
     {
@@ -535,68 +535,68 @@
     },
     {
         "position": 90,
+        "user_id": "c51ab94a9073d325494706bfca0db17a",
+        "name": "Calnix",
+        "points": 40
+    },
+    {
+        "position": 91,
         "user_id": "de1aff11909bebbf5e4f5106dd8488d2",
         "name": "bruh#2",
         "points": 33
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "643ded5991a961b95381bcc219290551",
         "name": "The_man_in_the_midle",
         "points": 32
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "a1cc33061ed04f84a1d1fb9067725ce7",
         "name": "Andreasjj",
         "points": 32
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "52c6c56a1be683012fa412a25dd7fae2",
         "name": "GRILLET PROGRAMMERER",
         "points": 32
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "e5124a8fbdc2debc79141e71a9b3c1d7",
         "name": "sta",
         "points": 32
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "9a15c278b8651531dd9a31c2420480ae",
         "name": "VIMSETE NERD",
         "points": 31
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "1fd05595cb1d273d177b162bf45b169e",
         "name": "SgtSIGSEGV",
         "points": 31
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "d2b50961a652141d71099c0a134c6a93",
         "name": "PLAGSOM SCHNEIER",
         "points": 31
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "dc483752cbf316865c1e3a51c89acf1d",
         "name": "DEDIKERT BABBAGE",
         "points": 31
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "83838f317fb52b3ce60d9cb3f9854660",
         "name": "z3r0c001",
-        "points": 30
-    },
-    {
-        "position": 100,
-        "user_id": "0b90b9dc8086ed84df260ba0cc56b51e",
-        "name": "happy",
         "points": 30
     }
 ]

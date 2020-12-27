@@ -25,15 +25,15 @@
     },
     {
         "position": 5,
-        "user_id": "a3628807a3358796b4d508a998340832",
-        "name": "sebbert",
-        "points": 109
+        "user_id": "bf75e86c2a941a084a6ad0adb05d0d86",
+        "name": "wuurrd",
+        "points": 110
     },
     {
         "position": 6,
-        "user_id": "bf75e86c2a941a084a6ad0adb05d0d86",
-        "name": "wuurrd",
-        "points": 108
+        "user_id": "a3628807a3358796b4d508a998340832",
+        "name": "sebbert",
+        "points": 109
     },
     {
         "position": 7,
@@ -43,21 +43,21 @@
     },
     {
         "position": 8,
+        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
+        "name": "NYSGJERRIG HACKTIVIST",
+        "points": 106
+    },
+    {
+        "position": 9,
         "user_id": "fc6c64a2c49e19412982082798853042",
         "name": "nic",
         "points": 104
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "4a56331bb4818285192c0e5c4ed9148f",
         "name": "Waldorf",
         "points": 102
-    },
-    {
-        "position": 10,
-        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
-        "name": "NYSGJERRIG HACKTIVIST",
-        "points": 101
     },
     {
         "position": 11,

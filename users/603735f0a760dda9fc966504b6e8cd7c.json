@@ -1,14 +1,14 @@
 {
-    "position": 21,
+    "position": 20,
     "user_id": "603735f0a760dda9fc966504b6e8cd7c",
     "name": "StateOfLimbo",
-    "points": 68,
+    "points": 71,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 100,
-        "3.2. Utfordringer middels": 69,
-        "3.3. Utfordringer vanskelig": 40,
+        "3.2. Utfordringer middels": 85,
+        "3.3. Utfordringer vanskelig": 50,
         "9. Gammelt": 0
     }
 }

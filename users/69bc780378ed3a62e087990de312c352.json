@@ -1,12 +1,12 @@
 {
-    "position": 100,
+    "position": null,
     "user_id": "69bc780378ed3a62e087990de312c352",
     "name": "NAKEN GUD",
-    "points": 20,
+    "points": 31,
     "categories": {
-        "1. Grunnleggende": 40,
+        "1. Grunnleggende": 60,
         "2. Oppdrag": 0,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 20,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0

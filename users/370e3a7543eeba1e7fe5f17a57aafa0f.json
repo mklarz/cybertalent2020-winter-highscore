@@ -1,10 +1,10 @@
 {
-    "position": 100,
+    "position": null,
     "user_id": "370e3a7543eeba1e7fe5f17a57aafa0f",
     "name": "0x1",
-    "points": 20,
+    "points": 30,
     "categories": {
-        "1. Grunnleggende": 40,
+        "1. Grunnleggende": 60,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,

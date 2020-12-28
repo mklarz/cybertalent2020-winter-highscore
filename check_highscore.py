@@ -2,6 +2,7 @@ import re
 import os
 import time
 import json
+import glob
 import requests
 from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
@@ -13,7 +14,10 @@ from bs4 import BeautifulSoup
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
 HIGHSCORE_URL = "https://ctf.cybertalent.no/highscore"
 USER_URL = "https://ctf.cybertalent.no/u/{}"
-USER_PATH = SCRIPT_PATH + "/users/{}.json"
+USERS_PATH = SCRIPT_PATH + "/users/"
+USER_PATH = USERS_PATH + "{}.json"
+
+existing_users = [user_file.replace(USERS_PATH, "").replace(".json", "") for user_file in glob.glob(USER_PATH.format("*"))]
 
 retries = Retry(
     total=5,
@@ -28,27 +32,22 @@ soup = BeautifulSoup(r.content, 'html.parser')
 
 highscore = []
 users = {}
-for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
-    # Extract all the user information
-    user_id = re.search(r"'/u/(.*?)'", li["onclick"]).group(1)
-    points = li.find("span", class_="sum").text.strip()
-    username = li.find("span", class_="navn").text.strip()[:-len(points)]
-    
 
-    # Initialize the user object and add it to the highscore table
-    user = {
-        "position": position + 1,
-        "user_id": user_id,
-        "name": username,
-        "points": int(points),
-    }
-    highscore.append(user)
 
-    # Let's add their current solves
-    user = user.copy()
-    user["categories"] = {}
+def handle_user(user_id, user=None):
     r = s.get(USER_URL.format(user_id))
     soup = BeautifulSoup(r.content, 'html.parser')
+
+    if not user:
+        user = {
+            "position": None,
+            "user_id": user_id,
+            "name": soup.find("h1").text.strip(),
+            "points": int(soup.find("h2").text.strip().replace(" poeng", "")),
+        }
+
+    # Let's add their current solves
+    user["categories"] = {}
 
     # Loop through the categories and map the percentages
     for li in soup.find("ol", class_="liste").find_all("li"):
@@ -61,8 +60,33 @@ for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
         json.dump(user, f, indent=4)
     print("Done processing: {}".format(user_id))
 
+highscore_users = set()
+for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
+    # Extract all the user information
+    user_id = re.search(r"'/u/(.*?)'", li["onclick"]).group(1)
+    points = li.find("span", class_="sum").text.strip()
+    username = li.find("span", class_="navn").text.strip()[:-len(points)]
+
+
+    # Initialize the user object and add it to the highscore table
+    user = {
+        "position": position + 1,
+        "user_id": user_id,
+        "name": username,
+        "points": int(points),
+    }
+    highscore.append(user)
+    highscore_users.add(user_id)
+    handle_user(user_id, user.copy())
+
     # Let's be a bit nice and sleep for a bit
     time.sleep(0.2)
+
+for user_id in existing_users:
+    if user_id in highscore_users:
+        continue
+    # We now have an user that is not in the top 100 anymore, let's track them by grabbing them directly
+    handle_user(user_id)
 
 
 with open("{}/highscore.min.json".format(SCRIPT_PATH), "w") as f:

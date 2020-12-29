@@ -565,38 +565,38 @@
     },
     {
         "position": 95,
+        "user_id": "2a2ae9eb201bd5055a4ca6e057d935ae",
+        "name": "XCaL",
+        "points": 40
+    },
+    {
+        "position": 96,
         "user_id": "ec49e4610286a4a5de2f0e40d170cafb",
         "name": "SOSIAL SCHNEIER",
         "points": 35
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "de1aff11909bebbf5e4f5106dd8488d2",
         "name": "bruh#2",
         "points": 33
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "643ded5991a961b95381bcc219290551",
         "name": "The_man_in_the_midle",
         "points": 32
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "a1cc33061ed04f84a1d1fb9067725ce7",
         "name": "Andreasjj",
         "points": 32
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "52c6c56a1be683012fa412a25dd7fae2",
         "name": "GRILLET PROGRAMMERER",
-        "points": 32
-    },
-    {
-        "position": 100,
-        "user_id": "e5124a8fbdc2debc79141e71a9b3c1d7",
-        "name": "sta",
         "points": 32
     }
 ]

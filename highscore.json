@@ -193,20 +193,20 @@
     },
     {
         "position": 33,
+        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
+        "name": "mutex",
+        "points": 60
+    },
+    {
+        "position": 34,
         "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
         "name": "KORT PROSESS",
         "points": 59
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "38c4e1ef0a4ca4b19c9e0467f7f54979",
         "name": "datasnok",
-        "points": 59
-    },
-    {
-        "position": 35,
-        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
-        "name": "mutex",
         "points": 59
     },
     {

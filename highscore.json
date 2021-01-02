@@ -25,14 +25,14 @@
     },
     {
         "position": 5,
-        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
-        "name": "NYSGJERRIG HACKTIVIST",
-        "points": 128
+        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
+        "name": "Waldorf",
+        "points": 131
     },
     {
         "position": 6,
-        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
-        "name": "Waldorf",
+        "user_id": "f105eb5f63b9d314cbc86c77a8fc4afd",
+        "name": "NYSGJERRIG HACKTIVIST",
         "points": 128
     },
     {
@@ -193,32 +193,32 @@
     },
     {
         "position": 33,
+        "user_id": "5859f335a15153e72a8d772b00b25946",
+        "name": "krise_i_vind",
+        "points": 61
+    },
+    {
+        "position": 34,
         "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
         "name": "mutex",
         "points": 60
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "2b9a2c8de864bea4bca40d2d6ae54677",
         "name": "KORT PROSESS",
         "points": 59
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "38c4e1ef0a4ca4b19c9e0467f7f54979",
         "name": "datasnok",
         "points": 59
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "72900d43af5a7428eec277d1ce8f87e4",
         "name": "SjefsNissen",
-        "points": 58
-    },
-    {
-        "position": 37,
-        "user_id": "5859f335a15153e72a8d772b00b25946",
-        "name": "krise_i_vind",
         "points": 58
     },
     {

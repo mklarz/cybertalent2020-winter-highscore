@@ -1,14 +1,14 @@
 {
-    "position": 65,
-    "user_id": "87a8e7925c4fc7e18f26130f8b22a30f",
-    "name": "skuggen",
-    "points": 46,
+    "position": 62,
+    "user_id": "2519692b36e398b2a1e4da24b16ce1d1",
+    "name": "vaff",
+    "points": 48,
     "categories": {
         "1. Grunnleggende": 80,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 60,
         "3.2. Utfordringer middels": 0,
-        "3.3. Utfordringer vanskelig": 20,
+        "3.3. Utfordringer vanskelig": 40,
         "9. Gammelt": 50
     }
 }

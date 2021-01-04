@@ -25,15 +25,15 @@
     },
     {
         "position": 5,
-        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
-        "name": "Waldorf",
-        "points": 135
+        "user_id": "fc6c64a2c49e19412982082798853042",
+        "name": "nic",
+        "points": 136
     },
     {
         "position": 6,
-        "user_id": "fc6c64a2c49e19412982082798853042",
-        "name": "nic",
-        "points": 131
+        "user_id": "4a56331bb4818285192c0e5c4ed9148f",
+        "name": "Waldorf",
+        "points": 135
     },
     {
         "position": 7,
@@ -73,14 +73,14 @@
     },
     {
         "position": 13,
-        "user_id": "e70dad5cc7608a406bae5001e1c026d5",
-        "name": "lw",
-        "points": 95
+        "user_id": "603735f0a760dda9fc966504b6e8cd7c",
+        "name": "StateOfLimbo",
+        "points": 100
     },
     {
         "position": 14,
-        "user_id": "603735f0a760dda9fc966504b6e8cd7c",
-        "name": "StateOfLimbo",
+        "user_id": "e70dad5cc7608a406bae5001e1c026d5",
+        "name": "lw",
         "points": 95
     },
     {
@@ -433,20 +433,20 @@
     },
     {
         "position": 73,
+        "user_id": "8ff6b35227a65cb4091038a856de5e04",
+        "name": "Kodeknekkeren",
+        "points": 44
+    },
+    {
+        "position": 74,
         "user_id": "19df52e1b29ae193f5a34110587f5822",
         "name": "H2",
         "points": 43
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "dc483752cbf316865c1e3a51c89acf1d",
         "name": "DEDIKERT BABBAGE",
-        "points": 43
-    },
-    {
-        "position": 75,
-        "user_id": "8ff6b35227a65cb4091038a856de5e04",
-        "name": "Kodeknekkeren",
         "points": 43
     },
     {

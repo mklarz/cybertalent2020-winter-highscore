@@ -171,7 +171,7 @@
         "position": 29,
         "user_id": "5859f335a15153e72a8d772b00b25946",
         "name": "krise_i_vind",
-        "points": 64
+        "points": 65
     },
     {
         "position": 30,
@@ -235,14 +235,14 @@
     },
     {
         "position": 40,
-        "user_id": "41f9bba70284ba9d7358cae284c150ee",
-        "name": "ChestyRiggs",
-        "points": 56
+        "user_id": "6c00e0adf4e302a6842d278ee863e578",
+        "name": "Bortnikov",
+        "points": 57
     },
     {
         "position": 41,
-        "user_id": "6c00e0adf4e302a6842d278ee863e578",
-        "name": "Bortnikov",
+        "user_id": "41f9bba70284ba9d7358cae284c150ee",
+        "name": "ChestyRiggs",
         "points": 56
     },
     {
@@ -277,44 +277,44 @@
     },
     {
         "position": 47,
+        "user_id": "db0284a430924c5308591834d07eddd2",
+        "name": "friksenfriksen",
+        "points": 54
+    },
+    {
+        "position": 48,
         "user_id": "db8d08e26fc7a110751127e75179d367",
         "name": "Turboslask",
         "points": 53
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "304f0ba5fd625cfb901444587abbfb78",
         "name": "langemyh",
         "points": 53
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "3bea54380e0ff801b02bd822b277892c",
         "name": "ARBEIDSLEDIG PERSON",
         "points": 53
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "3375346bb19627546cce06e160a5bc11",
         "name": "ztj0x",
         "points": 53
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "949ebbfb945213cd3cc6ee630e162612",
         "name": "NYSKAPENDE GUD",
         "points": 53
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "f3f124af8665d1e3fb7c4dc342121e1c",
         "name": "ROTETE CRACKER",
-        "points": 53
-    },
-    {
-        "position": 53,
-        "user_id": "db0284a430924c5308591834d07eddd2",
-        "name": "friksenfriksen",
         "points": 53
     },
     {
@@ -433,14 +433,14 @@
     },
     {
         "position": 73,
-        "user_id": "ff12ea32e93d5df05463c6fbf2d23c77",
-        "name": "Null0",
-        "points": 46
+        "user_id": "c5e73e1bc96bc549763e2448cd4b00b4",
+        "name": "KLAM SLASK",
+        "points": 47
     },
     {
         "position": 74,
-        "user_id": "c5e73e1bc96bc549763e2448cd4b00b4",
-        "name": "KLAM SLASK",
+        "user_id": "ff12ea32e93d5df05463c6fbf2d23c77",
+        "name": "Null0",
         "points": 46
     },
     {
@@ -463,20 +463,20 @@
     },
     {
         "position": 78,
+        "user_id": "1448db974cc930097ac767c2847e3f3a",
+        "name": "Roellik_Munch",
+        "points": 46
+    },
+    {
+        "position": 79,
         "user_id": "0157261d3f32968e1f40a6327e9d4248",
         "name": "inb4HemmeligSameknivFight",
         "points": 45
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "04a6dc216a81bc7c90b413f22aa7aba6",
         "name": "ANBEFALT NOOB",
-        "points": 45
-    },
-    {
-        "position": 80,
-        "user_id": "1448db974cc930097ac767c2847e3f3a",
-        "name": "Roellik_Munch",
         "points": 45
     },
     {

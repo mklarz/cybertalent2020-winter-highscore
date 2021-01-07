@@ -169,20 +169,20 @@
     },
     {
         "position": 29,
+        "user_id": "5859f335a15153e72a8d772b00b25946",
+        "name": "krise_i_vind",
+        "points": 64
+    },
+    {
+        "position": 30,
         "user_id": "71c3cbd9034cecba016dad064503cd9e",
         "name": "snabel_b",
         "points": 63
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
-        "points": 63
-    },
-    {
-        "position": 31,
-        "user_id": "5859f335a15153e72a8d772b00b25946",
-        "name": "krise_i_vind",
         "points": 63
     },
     {
@@ -314,7 +314,7 @@
     {
         "position": 53,
         "user_id": "db0284a430924c5308591834d07eddd2",
-        "name": "SVETT PERSON",
+        "name": "friksenfriksen",
         "points": 53
     },
     {
@@ -475,14 +475,14 @@
     },
     {
         "position": 80,
-        "user_id": "77d5501aefb6fca7d07248f7f7140649",
-        "name": "Sithis",
-        "points": 44
+        "user_id": "1448db974cc930097ac767c2847e3f3a",
+        "name": "Roellik_Munch",
+        "points": 45
     },
     {
         "position": 81,
-        "user_id": "1448db974cc930097ac767c2847e3f3a",
-        "name": "Roellik_Munch",
+        "user_id": "77d5501aefb6fca7d07248f7f7140649",
+        "name": "Sithis",
         "points": 44
     },
     {

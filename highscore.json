@@ -277,38 +277,38 @@
     },
     {
         "position": 47,
+        "user_id": "3bea54380e0ff801b02bd822b277892c",
+        "name": "ARBEIDSLEDIG PERSON",
+        "points": 55
+    },
+    {
+        "position": 48,
         "user_id": "f934aac9d6a0adb0272e8bbb1cff91c5",
         "name": "SVR_agentx",
         "points": 54
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "21d8b92d9251d0af5160b30ae8f1163c",
         "name": "GRU_agenty",
         "points": 54
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "db0284a430924c5308591834d07eddd2",
         "name": "friksenfriksen",
         "points": 54
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "db8d08e26fc7a110751127e75179d367",
         "name": "Turboslask",
         "points": 53
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "304f0ba5fd625cfb901444587abbfb78",
         "name": "langemyh",
-        "points": 53
-    },
-    {
-        "position": 52,
-        "user_id": "3bea54380e0ff801b02bd822b277892c",
-        "name": "ARBEIDSLEDIG PERSON",
         "points": 53
     },
     {

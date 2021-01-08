@@ -1,14 +1,14 @@
 {
-    "position": null,
-    "user_id": "20909f330e933458bb3884849b02f07a",
-    "name": "S\u00c5RBAR GUD",
-    "points": 41,
+    "position": 93,
+    "user_id": "2733011e5c4eae562876e19838ba7731",
+    "name": "FORULEMPET BABBAGE",
+    "points": 42,
     "categories": {
         "1. Grunnleggende": 80,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 20,
         "3.2. Utfordringer middels": 0,
-        "3.3. Utfordringer vanskelig": 0,
+        "3.3. Utfordringer vanskelig": 10,
         "9. Gammelt": 0
     }
 }

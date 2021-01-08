@@ -1,12 +1,12 @@
 {
-    "position": 74,
+    "position": 64,
     "user_id": "e7be6e103e2f99e20f95005d4cadba80",
     "name": "SVETT STALLMAN",
-    "points": 50,
+    "points": 51,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 20,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0

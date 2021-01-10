@@ -175,20 +175,20 @@
     },
     {
         "position": 30,
+        "user_id": "6c00e0adf4e302a6842d278ee863e578",
+        "name": "Bortnikov",
+        "points": 65
+    },
+    {
+        "position": 31,
         "user_id": "71c3cbd9034cecba016dad064503cd9e",
         "name": "snabel_b",
         "points": 63
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
-        "points": 63
-    },
-    {
-        "position": 32,
-        "user_id": "6c00e0adf4e302a6842d278ee863e578",
-        "name": "Bortnikov",
         "points": 63
     },
     {

@@ -199,26 +199,26 @@
     },
     {
         "position": 34,
+        "user_id": "6c00e0adf4e302a6842d278ee863e578",
+        "name": "Bortnikov",
+        "points": 62
+    },
+    {
+        "position": 35,
         "user_id": "6f013570ed2b8f8ade6b774f30227607",
         "name": "Isthisanonymous?",
         "points": 61
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
         "name": "mutex",
         "points": 61
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "a4978a2a2c4995bc7cc2eabb584535c5",
         "name": "NERDETE PWNER",
-        "points": 60
-    },
-    {
-        "position": 37,
-        "user_id": "6c00e0adf4e302a6842d278ee863e578",
-        "name": "Bortnikov",
         "points": 60
     },
     {

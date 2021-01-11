@@ -151,39 +151,39 @@
     },
     {
         "position": 26,
+        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
+        "name": "mutex",
+        "points": 71
+    },
+    {
+        "position": 27,
         "user_id": "365cdf77e28f237f0031f0d40ad712e4",
         "name": "INNBITT SLASK",
         "points": 69
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "10049773d96482ee328823f8a13431eb",
         "name": "Zarux",
         "points": 68
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "5859f335a15153e72a8d772b00b25946",
         "name": "krise_i_vind",
         "points": 68
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 67
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "6c00e0adf4e302a6842d278ee863e578",
         "name": "Bortnikov",
-        "points": 66
-    },
-    {
-        "position": 31,
-        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
-        "name": "mutex",
-        "points": 66
+        "points": 67
     },
     {
         "position": 32,

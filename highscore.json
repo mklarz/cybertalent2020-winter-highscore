@@ -145,20 +145,20 @@
     },
     {
         "position": 25,
+        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
+        "name": "mutex",
+        "points": 76
+    },
+    {
+        "position": 26,
         "user_id": "04afab4ae4d1bd5fea8d1a6cc71f6259",
         "name": "frisk",
         "points": 72
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "944326851f9bd48f90f47cf4ac452028",
         "name": "julebokk",
-        "points": 71
-    },
-    {
-        "position": 27,
-        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
-        "name": "mutex",
         "points": 71
     },
     {
@@ -169,27 +169,27 @@
     },
     {
         "position": 29,
+        "user_id": "41f9bba70284ba9d7358cae284c150ee",
+        "name": "ChestyRiggs",
+        "points": 71
+    },
+    {
+        "position": 30,
         "user_id": "10049773d96482ee328823f8a13431eb",
         "name": "Zarux",
         "points": 68
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "5859f335a15153e72a8d772b00b25946",
         "name": "krise_i_vind",
         "points": 68
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 67
-    },
-    {
-        "position": 32,
-        "user_id": "41f9bba70284ba9d7358cae284c150ee",
-        "name": "ChestyRiggs",
-        "points": 66
     },
     {
         "position": 33,
@@ -277,20 +277,20 @@
     },
     {
         "position": 47,
+        "user_id": "278cea8e276543ab8aa4063d015aacdb",
+        "name": "INNBITT GUD",
+        "points": 59
+    },
+    {
+        "position": 48,
         "user_id": "72900d43af5a7428eec277d1ce8f87e4",
         "name": "SjefsNissen",
         "points": 58
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "2519692b36e398b2a1e4da24b16ce1d1",
         "name": "vaff",
-        "points": 58
-    },
-    {
-        "position": 49,
-        "user_id": "278cea8e276543ab8aa4063d015aacdb",
-        "name": "INNBITT GUD",
         "points": 58
     },
     {

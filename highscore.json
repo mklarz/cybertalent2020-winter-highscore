@@ -163,20 +163,20 @@
     },
     {
         "position": 28,
+        "user_id": "6c00e0adf4e302a6842d278ee863e578",
+        "name": "Bortnikov",
+        "points": 71
+    },
+    {
+        "position": 29,
         "user_id": "10049773d96482ee328823f8a13431eb",
         "name": "Zarux",
         "points": 68
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "5859f335a15153e72a8d772b00b25946",
         "name": "krise_i_vind",
-        "points": 68
-    },
-    {
-        "position": 30,
-        "user_id": "6c00e0adf4e302a6842d278ee863e578",
-        "name": "Bortnikov",
         "points": 68
     },
     {
@@ -291,7 +291,7 @@
         "position": 49,
         "user_id": "978f213f2049b3a3b23f8ab57d4ea8d5",
         "name": "Sofia",
-        "points": 57
+        "points": 58
     },
     {
         "position": 50,

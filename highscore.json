@@ -175,27 +175,27 @@
     },
     {
         "position": 30,
+        "user_id": "3c359df95f464616deff63738228c9f7",
+        "name": "MOTIVERT GEEK",
+        "points": 70
+    },
+    {
+        "position": 31,
         "user_id": "10049773d96482ee328823f8a13431eb",
         "name": "Zarux",
         "points": 68
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "5859f335a15153e72a8d772b00b25946",
         "name": "krise_i_vind",
         "points": 68
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "d3c6d1129a65ebc459626632d7153f6e",
         "name": "jo_k_er",
         "points": 67
-    },
-    {
-        "position": 33,
-        "user_id": "3c359df95f464616deff63738228c9f7",
-        "name": "MOTIVERT GEEK",
-        "points": 65
     },
     {
         "position": 34,

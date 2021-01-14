@@ -247,20 +247,20 @@
     },
     {
         "position": 42,
+        "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
+        "name": "gorilla_vibez",
+        "points": 62
+    },
+    {
+        "position": 43,
         "user_id": "6f013570ed2b8f8ade6b774f30227607",
         "name": "Isthisanonymous?",
         "points": 61
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "278cea8e276543ab8aa4063d015aacdb",
         "name": "fudgie",
-        "points": 61
-    },
-    {
-        "position": 44,
-        "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
-        "name": "gorilla_vibez",
         "points": 61
     },
     {

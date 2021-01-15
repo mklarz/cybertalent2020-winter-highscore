@@ -127,32 +127,32 @@
     },
     {
         "position": 22,
+        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
+        "name": "mutex",
+        "points": 81
+    },
+    {
+        "position": 23,
         "user_id": "c03e42018ca4a9c57654831b1b52fc1f",
         "name": "fjellape",
         "points": 78
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "251553f87b230cc72d1da9064dc356ce",
         "name": "VIMSETE NOOB",
         "points": 77
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "365cdf77e28f237f0031f0d40ad712e4",
         "name": "INNBITT SLASK",
         "points": 77
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "2f2e4c977f3f294197581fe67a57bfc6",
         "name": "sikker_stasjon",
-        "points": 76
-    },
-    {
-        "position": 26,
-        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
-        "name": "mutex",
         "points": 76
     },
     {

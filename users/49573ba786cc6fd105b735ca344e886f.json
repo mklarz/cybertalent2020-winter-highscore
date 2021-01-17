@@ -1,12 +1,12 @@
 {
-    "position": 98,
+    "position": 90,
     "user_id": "49573ba786cc6fd105b735ca344e886f",
     "name": "SHERPA",
-    "points": 50,
+    "points": 51,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 20,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "9. Gammelt": 0

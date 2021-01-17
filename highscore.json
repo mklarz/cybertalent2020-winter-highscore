@@ -79,27 +79,27 @@
     },
     {
         "position": 14,
+        "user_id": "3375346bb19627546cce06e160a5bc11",
+        "name": "ztj0x",
+        "points": 103
+    },
+    {
+        "position": 15,
         "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
         "name": "mutex",
         "points": 102
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "603735f0a760dda9fc966504b6e8cd7c",
         "name": "StateOfLimbo",
         "points": 100
     },
     {
-        "position": 16,
-        "user_id": "3375346bb19627546cce06e160a5bc11",
-        "name": "ztj0x",
-        "points": 98
-    },
-    {
         "position": 17,
         "user_id": "e141158d64e3cb785e03881fb0be02b5",
         "name": "Scalpel",
-        "points": 94
+        "points": 99
     },
     {
         "position": 18,
@@ -235,26 +235,26 @@
     },
     {
         "position": 40,
+        "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
+        "name": "gorilla_vibez",
+        "points": 64
+    },
+    {
+        "position": 41,
         "user_id": "71c3cbd9034cecba016dad064503cd9e",
         "name": "snabel_b",
         "points": 63
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "3c5c04a6aceb229cfaef98c42ec1643e",
         "name": "jole",
         "points": 63
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "7ff204a85338004fdc1e327febcaaa31",
         "name": "LadySilverberg",
-        "points": 62
-    },
-    {
-        "position": 43,
-        "user_id": "a9cc4015642c3c46a5c8a3c1e306dfcb",
-        "name": "gorilla_vibez",
         "points": 62
     },
     {
@@ -505,98 +505,98 @@
     },
     {
         "position": 85,
+        "user_id": "ddd8e66a87aae58fbfd254c1a6418e87",
+        "name": "KLAM PWNER",
+        "points": 51
+    },
+    {
+        "position": 86,
         "user_id": "1fa9750cedefe96e0d7aaf082a90f67c",
         "name": "KRAMPEAKTIG MITNICK",
         "points": 50
     },
     {
-        "position": 86,
+        "position": 87,
         "user_id": "d4bf91879534a09a011ed16ab5de2a40",
         "name": "NAKEN PROGRAMMERER",
         "points": 50
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "9e86a6912fa296bedab51d972d25530f",
         "name": "SKARP PWNER",
         "points": 50
     },
     {
-        "position": 88,
+        "position": 89,
         "user_id": "947296792802714df41fe079dbb26ee8",
         "name": "zigkill",
         "points": 50
     },
     {
-        "position": 89,
+        "position": 90,
         "user_id": "5f9b33108a93a5909ce2048b450e397d",
         "name": "d0g",
         "points": 50
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "0f9f18bf69d8779d1a7c32bb5528be45",
         "name": "S\u00c5RBAR SPION",
         "points": 50
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "89b787aceb241678db9b070fb933196c",
         "name": "b4d4ll0c",
         "points": 50
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "973e6842b52f6a6924b443e17cb2774a",
         "name": "KUL SLASK",
         "points": 50
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "0426e5fd960cd6fb7f6ca99ae0a9b256",
         "name": "NYSGJERRIG GUD",
         "points": 50
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "49573ba786cc6fd105b735ca344e886f",
         "name": "SHERPA",
         "points": 50
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "c97ea3ad7202405ac5d96bc4dde05138",
         "name": "Sundance",
         "points": 50
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "c1cf3260def1e625b04c4e2853e97883",
         "name": "StorHjerne",
         "points": 50
     },
     {
-        "position": 97,
-        "user_id": "ddd8e66a87aae58fbfd254c1a6418e87",
-        "name": "KLAM PWNER",
+        "position": 98,
+        "user_id": "0a30fb11f89853af3ef06ac8da695bc3",
+        "name": "Alexmackzie",
         "points": 50
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "a5c183f0d001d3241ec20c44d6cca909",
         "name": "i0n_x",
         "points": 49
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "c0a3689e16c3c93c295ce8f8a2e34aa7",
         "name": "marcelgs",
         "points": 49
-    },
-    {
-        "position": 100,
-        "user_id": "ff12ea32e93d5df05463c6fbf2d23c77",
-        "name": "Null0",
-        "points": 46
     }
 ]

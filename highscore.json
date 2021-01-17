@@ -79,15 +79,15 @@
     },
     {
         "position": 14,
-        "user_id": "603735f0a760dda9fc966504b6e8cd7c",
-        "name": "StateOfLimbo",
-        "points": 100
+        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
+        "name": "mutex",
+        "points": 102
     },
     {
         "position": 15,
-        "user_id": "cca16e3c2413ba1663184cb5f8d63cc7",
-        "name": "mutex",
-        "points": 97
+        "user_id": "603735f0a760dda9fc966504b6e8cd7c",
+        "name": "StateOfLimbo",
+        "points": 100
     },
     {
         "position": 16,
@@ -319,20 +319,20 @@
     },
     {
         "position": 54,
+        "user_id": "c51ab94a9073d325494706bfca0db17a",
+        "name": "Calnix",
+        "points": 57
+    },
+    {
+        "position": 55,
         "user_id": "dd57c6848586746e3da323b976e26136",
         "name": "OPERATIV SPION",
         "points": 56
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "a968526be0dd20171f1e38a128158f63",
         "name": "Veal",
-        "points": 56
-    },
-    {
-        "position": 56,
-        "user_id": "c51ab94a9073d325494706bfca0db17a",
-        "name": "Calnix",
         "points": 56
     },
     {
@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "ddd8e66a87aae58fbfd254c1a6418e87",
+        "name": "KLAM PWNER",
+        "points": 50
+    },
+    {
+        "position": 98,
         "user_id": "a5c183f0d001d3241ec20c44d6cca909",
         "name": "i0n_x",
         "points": 49
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "ff12ea32e93d5df05463c6fbf2d23c77",
         "name": "Null0",
         "points": 46
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "87a8e7925c4fc7e18f26130f8b22a30f",
         "name": "skuggen",
-        "points": 46
-    },
-    {
-        "position": 100,
-        "user_id": "2987e25e41d2f2b59a2e8c491895c3be",
-        "name": "ifname_tobu",
         "points": 46
     }
 ]

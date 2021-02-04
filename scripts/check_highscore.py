@@ -12,12 +12,15 @@ from bs4 import BeautifulSoup
 
 
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
+BASE_PATH = os.path.abspath(os.path.join(SCRIPT_PATH, ".."))
 HIGHSCORE_URL = "https://ctf.cybertalent.no/highscore"
 USER_URL = "https://ctf.cybertalent.no/u/{}"
-USERS_PATH = SCRIPT_PATH + "/users/"
-USER_PATH = USERS_PATH + "{}.json"
+TEMPLATES_PATH = BASE_PATH + "/templates"
+DATA_PATH = BASE_PATH + "/data/"
+USERS_PATH = BASE_PATH + "/users/"
+USER_JSON_PATH = USERS_PATH + "{}.json"
 
-existing_users = [user_file.replace(USERS_PATH, "").replace(".json", "") for user_file in glob.glob(USER_PATH.format("*"))]
+existing_users = [user_file.replace(USERS_PATH, "").replace(".json", "") for user_file in glob.glob(USER_JSON_PATH.format("*"))]
 
 retries = Retry(
     total=5,
@@ -56,7 +59,7 @@ def handle_user(user_id, user=None):
         user["categories"][name] = int(percent[:-1]) # Remove the %
 
     # Save the individual data for each user
-    with open(USER_PATH.format(user_id), "w") as f:
+    with open(USER_JSON_PATH.format(user_id), "w") as f:
         json.dump(user, f, indent=4)
     print("Done processing: {}".format(user_id))
 
@@ -89,8 +92,8 @@ for user_id in existing_users:
     handle_user(user_id)
 
 
-with open("{}/highscore.min.json".format(SCRIPT_PATH), "w") as f:
+with open("{}/highscore.min.json".format(DATA_PATH), "w") as f:
     json.dump(highscore, f)
 
-with open("{}/highscore.json".format(SCRIPT_PATH), "w") as f:
+with open("{}/highscore.json".format(DATA_PATH), "w") as f:
     json.dump(highscore, f, indent=4)
